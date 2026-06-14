@@ -1,0 +1,11 @@
+Refunds
+Customers can request a refund within 14 days if they have not used more than 20% of their monthly quota.
+
+Setup
+To start, create an account, add an API key, choose a model, and run the starter command from the README.
+
+Human Support
+If payment fails, account access breaks, or the customer asks for a human, create a support ticket and route to the team.
+
+Security
+The agent should start with read-only tools. Add write actions only after approval, logging, and permissions are in place.

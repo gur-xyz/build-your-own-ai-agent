@@ -1,0 +1,5 @@
+User is building practical AI projects.
+User likes learning by building simple working examples.
+Current project: a minimal agent starter kit.
+Good project formula: show utility first, then explain the architecture.
+Keep the first repo simple: profile + memory + tools + loop.
